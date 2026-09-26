@@ -1,0 +1,18 @@
+# Third-party LPC-Pro artifacts — bản quyền thuộc về wikmor, không commit
+LPC-Pro*.jar
+decompiled/
+jar_extract/
+folia_extract/
+folia_full_extract/
+
+# Build outputs
+target/
+patcher/target/
+*.class
+
+### IntelliJ IDEA ###
+.idea/
+*.iml
+
+### VS Code ###
+.vscode/
